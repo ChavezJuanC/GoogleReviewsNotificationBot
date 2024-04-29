@@ -11,7 +11,7 @@ OPENAI_KEY = ""
 RESEND_KEY = ""
 RESEND_EMAIL = ""
 GOOGLE_PLACE_ID = ""
-LLM = ""
+LLM = "" ##gpt
 
 ##EMAIL##
 
